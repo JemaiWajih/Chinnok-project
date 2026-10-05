@@ -1,0 +1,73 @@
+genre,genre_rank,track_name,artist_name,units_sold,revenue
+Alternative,1,All Night Thing,Temple of the Dog,1,0.99
+Alternative,2,Billie Jean,Chris Cornell,1,0.99
+Alternative,3,Call Me a Dog,Temple of the Dog,1,0.99
+Alternative & Punk,1,A Melhor Forma,Titãs,2,1.98
+Alternative & Punk,2,Ando Meio Desligado,Os Mutantes,2,1.98
+Alternative & Punk,3,Babylon,The Tea Party,2,1.98
+Blues,1,Lay Down Sally,Eric Clapton,2,1.98
+Blues,2,Lonely Stranger,Eric Clapton,2,1.98
+Blues,3,Midnight From The Inside Out,The Black Crowes,2,1.98
+Bossa Nova,1,Onde Anda Você,Toquinho & Vinícius,2,1.98
+Bossa Nova,2,Berimbau,Toquinho & Vinícius,1,0.99
+Bossa Nova,3,Canto De Ossanha,Toquinho & Vinícius,1,0.99
+Classical,1,"Music for the Funeral of Queen Mary: VI. ""Thou Knowest, Lord, the Secrets of Our Hearts""","Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",2,1.98
+Classical,2,"Scheherazade, Op. 35: I. The Sea and Sindbad's Ship",Chicago Symphony Orchestra & Fritz Reiner,2,1.98
+Classical,3,"String Quartet No. 12 in C Minor, D. 703 ""Quartettsatz"": II. Andante - Allegro assai",Emerson String Quartet,2,1.98
+Comedy,1,Phyllis's Wedding,The Office,2,3.98
+Comedy,2,"A Benihana Christmas, Pts. 1 & 2",The Office,1,1.99
+Comedy,3,Back from Vacation,The Office,1,1.99
+Drama,1,How to Stop an Exploding Man,Heroes,2,3.98
+Drama,2,The Fix,Heroes,2,3.98
+Drama,3,Better Halves,Heroes,1,1.99
+Easy Listening,1,"Bad, Bad Leroy Brown",Frank Sinatra,1,0.99
+Easy Listening,2,Come Fly With Me,Frank Sinatra,1,0.99
+Easy Listening,3,Fly Me To The Moon,Frank Sinatra,1,0.99
+Electronica/Dance,1,Light Years,Jamiroquai,2,1.98
+Electronica/Dance,2,Armadura,O Rappa,1,0.99
+Electronica/Dance,3,Chapa o Coco,O Rappa,1,0.99
+Heavy Metal,1,Age Of Innocence,Iron Maiden,1,0.99
+Heavy Metal,2,Another Life,Iron Maiden,1,0.99
+Heavy Metal,3,Dance Of Death,Iron Maiden,1,0.99
+Hip Hop/Rap,1,Nega Do Cabelo Duro,Planet Hemp,2,1.98
+Hip Hop/Rap,2,Rappers Reais,Planet Hemp,2,1.98
+Hip Hop/Rap,3,Bossa,Planet Hemp,1,0.99
+Jazz,1,Blue Rythm Fantasy,Gene Krupa,2,1.98
+Jazz,2,Don't Take Your Love From Me,Gene Krupa,2,1.98
+Jazz,3,Drum Boogie,Gene Krupa,2,1.98
+Latin,1,A Novidade (Live),Gilberto Gil,2,1.98
+Latin,2,Amor De Muito,Chico Science & Nação Zumbi,2,1.98
+Latin,3,As Rosas Não Falam (Beth Carvalho),Various Artists,2,1.98
+Metal,1,Aces High,Iron Maiden,2,1.98
+Metal,2,Battery,Metallica,2,1.98
+Metal,3,Better Than You,Metallica,2,1.98
+Pop,1,Beautiful Boy,U2,2,1.98
+Pop,2,Give Peace a Chance,U2,2,1.98
+Pop,3,#9 Dream,U2,1,0.99
+R&B/Soul,1,"Abraham, Martin And John",Marvin Gaye,2,1.98
+R&B/Soul,2,Hey America,James Brown,2,1.98
+R&B/Soul,3,Rehab,Amy Winehouse,2,1.98
+Reggae,1,A Cor Do Sol,Cidade Negra,2,1.98
+Reggae,2,C'est La Vie,UB40,2,1.98
+Reggae,3,Bring Me Your Cup,UB40,1,0.99
+Rock,1,All Along The Watchtower,U2,2,1.98
+Rock,2,Balls to the Wall,Accept,2,1.98
+Rock,3,Binky The Doormat,R.E.M.,2,1.98
+Rock And Roll,1,C'Mon Everybody,BackBeat,1,0.99
+Rock And Roll,2,Carol,BackBeat,1,0.99
+Rock And Roll,3,Good Golly Miss Molly,BackBeat,1,0.99
+Sci Fi & Fantasy,1,Baltar's Escape,Battlestar Galactica (Classic),1,1.99
+Sci Fi & Fantasy,2,"Battlestar Galactica, Pt. 1",Battlestar Galactica (Classic),1,1.99
+Sci Fi & Fantasy,3,"Battlestar Galactica, Pt. 2",Battlestar Galactica (Classic),1,1.99
+Science Fiction,1,The Woman King,Battlestar Galactica,2,3.98
+Science Fiction,2,A Day In the Life,Battlestar Galactica,1,1.99
+Science Fiction,3,Hero,Battlestar Galactica,1,1.99
+Soundtrack,1,Plot 180,Passengers,2,1.98
+Soundtrack,2,Assum Preto,Gilberto Gil,1,0.99
+Soundtrack,3,Beach Sequence,Passengers,1,0.99
+TV Shows,1,Gay Witch Hunt,The Office,2,3.98
+TV Shows,2,Hot Girl,The Office,2,3.98
+TV Shows,3,Pilot,Aquaman,2,3.98
+World,1,A Moça e a Chuva,Mônica Marianno,1,0.99
+World,2,Aos Leões,Mônica Marianno,1,0.99
+World,3,Cafezinho,João Suplicy,1,0.99

@@ -1,0 +1,16 @@
+track_name,artist_name,revenue,row_num,rank_with_gaps,dense_rank
+Gay Witch Hunt,The Office,3.98,1,1,1
+Hot Girl,The Office,3.98,2,1,1
+How to Stop an Exploding Man,Heroes,3.98,3,1,1
+Phyllis's Wedding,The Office,3.98,4,1,1
+Pilot,Aquaman,3.98,5,1,1
+The Fix,Heroes,3.98,6,1,1
+The Woman King,Battlestar Galactica,3.98,7,1,1
+Walkabout,Lost,3.98,8,1,1
+"""?""",Lost,1.99,9,9,2
+...And Found,Lost,1.99,10,9,2
+"A Benihana Christmas, Pts. 1 & 2",The Office,1.99,11,9,2
+A Day In the Life,Battlestar Galactica,1.99,12,9,2
+Adrift,Lost,1.99,13,9,2
+Back from Vacation,The Office,1.99,14,9,2
+Baltar's Escape,Battlestar Galactica (Classic),1.99,15,9,2
